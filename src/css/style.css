@@ -1,4 +1,7 @@
 .box {
-    height: 50px;
-    background-color: #ccc;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    border: 2px solid red;
+    margin-top: 10px;
 }
